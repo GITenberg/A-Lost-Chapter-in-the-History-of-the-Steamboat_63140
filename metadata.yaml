@@ -1,0 +1,33 @@
+_repo: A-Lost-Chapter-in-the-History-of-the-Steamboat_63140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Latrobe, John H. B. (John Hazlehurst Boneval)
+    aliases:
+    - Latrobe, John Hazlehurst Boneval
+    - Latrobe, J. H. B. (John Hazlehurst Boneval)
+    birthdate: 1803
+    deathdate: 1891
+    gutenberg_agent_id: '52303'
+    url: http://www.gutenberg.org/2009/agents/52303
+    wikipedia: https://en.wikipedia.org/wiki/John_H._B._Latrobe
+description: Regarding the author's connection with a case (never brought to trial)
+  involving a patent granted to Nicholas J. Roosevelt in 1814 for using vertical wheels
+  with steam engines to propel boats.
+gutenberg_issued: '2020-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63140'
+  lccn: rc01003374
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steam-navigation -- History'
+- !lcc 'VM'
+- !lcsh 'Roosevelt, Nicholas J., 1767-1854'
+- !lcc 'F106'
+- GITenberg
+title: A Lost Chapter in the History of the Steamboat
+url: http://www.gutenberg.org/ebooks/63140
